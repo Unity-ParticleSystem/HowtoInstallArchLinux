@@ -1,0 +1,96 @@
+we will be using virtualbox
+
+set it up, and do whatever
+
+when you get to the terminal area start from here
+
+python -m archinstall guided
+
+
+*select country from 0-26 with different countries* 
+type: *number that your country is in*
+
+press enter
+
+* it will show a bunch of numbers with country shortened Example: 53.us*
+type *number that your country is in* #warning: if you do not choose your country, it will set your keyboard and language to that country* 
+
+press enter
+
+*select your disk with the amount of GB you added to the vm* 
+
+press enter
+
+*it will show all the partitions for arch linux*
+
+type: *the number of the partiction you want to use*
+
+press enter
+
+#type your password if you want to
+
+press enter
+
+# press N
+
+press enter
+
+#choose yopur hostname
+
+press enter
+
+# choose root password or leave it blank if you want root disabled
+
+press enter
+
+# if you want to add an additional user, go ahead
+
+press enter
+
+#if you want to install a file, go ahead press enter if you want to skip
+
+press enter
+
+#choose if you want desktop
+
+press enter
+
+#if you chose desktop, choose desktop enviornment
+
+press enter
+
+#choose your graphics card driver
+
+press enter
+
+#choose if you want to install pipeware instead of pulseaudio 
+
+press enter
+
+#choose which kernel you want to use
+
+press enter
+
+#choose if you want firefox or chromium
+
+press enter
+
+#press 1 for internet
+
+press enter
+
+press enter
+
+press Y
+
+press enter to start installation
+
+after its done installing, type #shutdown now
+
+after it has shutdown, go to storage, and rremove the iso file
+
+start up the vm
+
+type your password
+
+then login to your arch linux
